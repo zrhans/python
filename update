@@ -5,6 +5,6 @@ git add .
 git commit -m 'Comit via update'
 git push -u origin master
 
-echo -e "\033[1:36m Ciano claro \033[0m --> 1;36"
+echo -e "\033[1:36m"
 echo '========================================='
 echo -e "\033[0;37m"
