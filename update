@@ -1,0 +1,9 @@
+#! /bin/bash
+clear
+git pull
+git add .
+git commit -m 'Comit via update'
+git push -u origin master
+
+echo '==============================='
+echo ''
