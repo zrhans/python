@@ -1,5 +1,5 @@
 # TÓPICOS
-----
+
 ## Objetivo Prático
 * Ler um arquivo de dados
 * Gerar séries e dataframes com esses dados
