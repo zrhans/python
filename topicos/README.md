@@ -1,4 +1,6 @@
-# Objetivo Prático
+# TÓPICOS
+----
+## Objetivo Prático
 * Ler um arquivo de dados
 * Gerar séries e dataframes com esses dados
 * Gerar resultados numericos operados sobre estes dados
@@ -11,7 +13,7 @@
 
 ----
 
-# Estudo Dirigido
+## Estudo Dirigido
 
 * CodeAcademy
 * Visão Básica do Python
@@ -23,7 +25,7 @@
 * Solving mathematical problems with Scientific Python [Acessar](http://anaconda.org/ijstokes/13-scientificpython/notebook)
 
 ----
-# Documentação Oficial
+## Documentação Oficial
 
 * [Python 3](https://docs.python.org/3/)
 * [Pandas](http://pandas.pydata.org/)
